@@ -661,6 +661,13 @@ span {
         width: 100%;
         height: 35vh;
     }
+    
+    .card .btn {
+
+        display: block;
+        margin: 10px 40px 20px;
+
+    }
 
 
     /****** Service Section ******/
