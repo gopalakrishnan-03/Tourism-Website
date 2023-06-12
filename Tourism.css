@@ -654,7 +654,7 @@ span {
         display: grid;
         grid-template-columns: repeat(2, lfr);
         margin: 20px;
-        width: 35%;
+        width: 40%;
     }
 
     .card-image img {
