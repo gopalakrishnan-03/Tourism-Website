@@ -530,7 +530,7 @@ form input.btn {
     justify-content: center;
     align-items: center;
     color: #000;
-    padding: 10px 0px 6px;
+    padding: 10px 0px 4px;
     font-size: 18px;
 
 }
@@ -546,14 +546,14 @@ form input.btn {
     border-radius: 50%;
     font-size: 22px;
     color: #000;
-    margin: 10px 10px 0px 0px;
+    margin: 15px 0px 0px;
     transition: .5s ease;
 }
 
 .icon a:hover {
     background: linear-gradient(to right, #ff416c, #ff4b2b);
     color: #000;
-    box-shadow: 0 0 1rem #0EF0EF;
+    box-shadow: 0 0 1rem #ff4b2b;
 }
 
 span {
