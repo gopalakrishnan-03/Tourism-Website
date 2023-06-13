@@ -553,7 +553,8 @@ form input.btn {
 .icon a:hover {
     background: linear-gradient(to right, #ff416c, #ff4b2b);
     color: #000;
-    box-shadow: 0 0 1rem #ff4b2b;
+    border: 3px solid #ff4b2b;
+    box-shadow: 0 0 8px #ff4b2b;
 }
 
 span {
