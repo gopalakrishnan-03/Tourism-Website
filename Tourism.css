@@ -513,7 +513,7 @@ form textarea {
     font-size: 18px;
     color: #fff;
     background-color: #000;
-    margin: 5px;
+    margin: 8px;
     padding: 10px;
     border-radius: 10px;
 }
@@ -1015,6 +1015,14 @@ span {
     }
 
     .contact-contant form {
+        display: flex;
+
+    flex-direction: column;
+
+    justify-content: center;
+
+    align-items: center;
+        
         width: 100%;
     }
 
