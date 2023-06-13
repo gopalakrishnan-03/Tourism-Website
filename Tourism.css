@@ -71,7 +71,7 @@ section {
 .navbar ul li a:after {
     content: "";
     position: absolute;
-    background: linear-gradient(to right, #ff416c, #ff4b2b);
+    background: #ff4b2b;
     height: 2px;
     width: 0%;
     left: 0;
